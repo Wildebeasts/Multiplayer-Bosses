@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "multiplayerbosses:item/lootbag_base",
+    "layer1": "multiplayerbosses:item/lootbag_knot"
+  }
+}
